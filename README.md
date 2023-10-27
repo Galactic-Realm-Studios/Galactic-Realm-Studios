@@ -15,6 +15,8 @@
 
 Galactic Realm Studios is an app with custumization to get the latest news from galaxy.
 
+# Please note that app is in beta many features missing.
+
 
 
 </div>
