@@ -1,1 +1,1 @@
-MAKE SURE ALL FILES DOWNLOADED AND ARE IN SAME FOLDER OTHERWISE THIS APP WON't WORK!!!!
+On this github site, press code then download zip, and then extract all files to desired folder and run app.
