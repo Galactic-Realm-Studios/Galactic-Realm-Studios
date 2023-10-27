@@ -1,6 +1,6 @@
 <div align="center">
 
-[![BetterDiscord Logo](https://media.discordapp.net/attachments/341062370627682315/1053477174566465567/logo_large_ish.png)](https://betterdiscord.app/)
+[![BetterDiscord Logo](https://cdn.discordapp.com/attachments/1155787121588711444/1167582073364693052/Galaxy_Banner.png?ex=654ea68a&is=653c318a&hm=23f046f02184813719beb6432debb16157de1ac2bcef47b6f651302b089dfc72&)](https://galaxyexe.carrd.co)
 
 [![CI Status][build-badge]][build-link] [![GitHub Releases][downloads-badge]][downloads-link] [![Discord][discord-badge]][discord-link] [![Website][website-badge]][website-link] [![Docs][docs-badge]][docs-link]
 
