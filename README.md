@@ -13,9 +13,9 @@
 
 
 
-BetterDiscord is a client modification for Discord with endless flexibility and addons. The only limit to the customization is your own imagination.
+Galactic Realm Studios is an app with custumization to get the latest news from galaxy.
 
-[![Theme Split](https://betterdiscord.app/resources/branding/split.png)](https://betterdiscord.app/)
+
 
 </div>
 
@@ -29,12 +29,6 @@ Download the installer for your operating system below. You can check [this page
 
 [windows-link]: https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Windows.exe
 [windows-badge]: https://img.shields.io/badge/Windows%20(7+)-3a71c1?logo=Windows&logoColor=3a71c1&labelColor=0c0d10&color=3a71c1&style=for-the-badge
-
-[mac-link]: https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Mac.zip
-[mac-badge]: https://img.shields.io/badge/macOS%20(10.10+)-3a71c1?logo=Apple&logoColor=3a71c1&labelColor=0c0d10&color=3a71c1&style=for-the-badge
-
-[linux-link]: https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Linux.AppImage
-[linux-badge]: https://img.shields.io/badge/Linux-3a71c1?logo=Linux&logoColor=3a71c1&labelColor=0c0d10&color=3a71c1&style=for-the-badge
 
 
 
