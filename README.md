@@ -25,6 +25,7 @@ Galactic Realm Studios is an app with custumization to get the latest news from 
 
 Download the installer for your operating system below. You can check [this page]() for a more detailed guide.
 
+[![Windows Installer][windows-badge]][windows-link]
 
 [windows-link]: https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Windows.exe
 [windows-badge]: https://img.shields.io/badge/Windows%20(7+)-3a71c1?logo=Windows&logoColor=3a71c1&labelColor=0c0d10&color=3a71c1&style=for-the-badge
