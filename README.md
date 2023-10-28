@@ -17,7 +17,7 @@ Galactic Realm Studios is an app with custumization to get the latest news from 
 
 # Please note that app is in beta many features missing.
 
-
+Aswell note that windows microsoft defender **will** pop-up as I am an unkown publisher; don't worry, your pc isn't at risk; so download the app and enjoy it.
 
 </div>
 
